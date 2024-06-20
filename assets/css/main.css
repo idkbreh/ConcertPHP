@@ -1,0 +1,44 @@
+
+.glitch{
+    font-family: 'Press Start 2P', cursive;
+}
+.color-c{
+    color: white;
+}
+
+.reveal{
+    position: relative;
+    transform: translateY(150px);
+    opacity: 0;
+    transition: 1s all ease;
+    }
+
+    .reveal.active{
+    transform: translateY(0);
+    opacity: 1;
+    }
+body{
+    font-family: 'Sarabun';
+    background-color: #ffffff;
+}
+.btn-outline-danger{
+    border-color: purple;
+    color:purple;
+    border-radius: 7px;
+}
+.btn-outline-danger:hover{
+    border-color: purple;
+    color:white;
+    background-color: purple;
+}
+.dropdown-menu{
+    background-color: purple;
+
+}
+
+.border3{
+    border-style: solid;
+    border: 10px;
+    border-radius: 20px;
+}
+

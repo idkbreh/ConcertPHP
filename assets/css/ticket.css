@@ -1,0 +1,26 @@
+.card {
+    font-family: 'Sarabun', sans-serif;
+    border: 2px solid #313131;
+    border-radius: 10px;
+    color:black;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+.card-header {
+    background: linear-gradient(-45deg, rgb(200, 56, 133),rgb(238, 84, 243));
+    color: white;
+    border-radius: 10px 10px 0 0;
+}
+.card-body, .card-footer {
+    padding: 20px;
+}
+.card-body p, .card-footer p {
+    margin: 0;
+    font-size: 18px;
+    line-height: 1.5;
+}
+.btn-save {
+    background-color: rgb(238, 84, 243);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
