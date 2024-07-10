@@ -26,14 +26,14 @@ For Windows, the PHP binaries can be obtained from
 For other systems, see the [installation chapter](https://www.php.net/install).
 
 ## Credit
-Student in TRIAMUDOMSUKSANOMKLAO School . 
+Student in **TRIAMUDOMSUKSANOMKLAO School** . 
 
-Project Manager 
+**Project Manager** 
 - Patcharapol R.
-Frontend Developer
+**Frontend Developer**
 - UX/UI Design by TUN Student Council 
 - Frontend Develop by Patcharapol R.
-Backend Developer
+**Backend Developer**
 - Patcharapol R.
-Software Tester
+**Software Tester**
 - TUN Student Council
