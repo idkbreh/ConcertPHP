@@ -1,4 +1,6 @@
-![image](https://github.com/idkbreh/ConcertPHP/assets/93085924/65acc67e-1dfa-4ef9-98cf-2f78152bbcc3  | width=100)<div align="center">
+
+img src="https://github.com/idkbreh/ConcertPHP/assets/93085924/65acc67e-1dfa-4ef9-98cf-2f78152bbcc3" width="400" height="790">
+<div align="center">
     <a href="https://github.com/idkbreh/ConcertPHP">
         <img
             alt="PHP"
