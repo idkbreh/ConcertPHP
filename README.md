@@ -29,11 +29,11 @@ For other systems, see the [installation chapter](https://www.php.net/install).
 Student in TRIAMUDOMSUKSANOMKLAO School . 
 
 Project Manager 
-    - Patcharapol R.
+- Patcharapol R.
 Frontend Developer
-    - UX/UI Design by TUN Student Council 
-    - Frontend Develop by Patcharapol R.
+- UX/UI Design by TUN Student Council 
+- Frontend Develop by Patcharapol R.
 Backend Developer
-    - Patcharapol R.
+- Patcharapol R.
 Software Tester
-    - TUN Student Council
+- TUN Student Council
