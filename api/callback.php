@@ -1,7 +1,7 @@
 <?php
 function sendLineNotify($message)
 {
-    $token = "DB4lqNUetSM70Y6sBYIPMW3ollL25C3FOi4N4APNSHZ"; // ใส่ Token ที่สร้างไว้
+    $token = "xxxxxx"; // ใส่ Token ที่สร้างไว้
 
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, "https://notify-api.line.me/api/notify");
